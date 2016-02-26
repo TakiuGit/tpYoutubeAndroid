@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TpYoutube</string>
+    <string name="search_button">Search</string>
+    <string name="search_text">Rechercher sur Youtube</string>
+    <string name="title_activity_video_result">VideoResultActivity</string>
+    <string name="title_activity_video_info">VideoInfoActivity</string>
+</resources>
